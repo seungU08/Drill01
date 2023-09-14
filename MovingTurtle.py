@@ -22,6 +22,7 @@ def left_move():
 
 def restart():
     turtle.reset()
+    turtle.stamp()
 
 turtle.shape('turtle')
 turtle.stamp()
